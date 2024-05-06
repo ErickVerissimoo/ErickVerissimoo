@@ -1,6 +1,5 @@
 # 💫 About Me:
-Olá, eu sou o Erick. Sou um estudante de programação e informática. Criei este perfil para tornar público e transparente meu aprendizado. Aqui além de alguns
-projetos, se encontrará algumas atividades exercidas em minha instituição de ensino. 
+#### Olá, eu sou o Erick. Sou um estudante de programação e informática. Criei este perfil para tornar público e transparente meu aprendizado. Aqui além de alguns projetos, se encontrará algumas atividades exercidas em minha instituição de ensino. 
 
 
 ## 🌐 Socials:
